@@ -1,1 +1,1 @@
-# rsschool-cv
+# My *CV* is [here](https://starff.github.io/rsschool-cv/cv)
